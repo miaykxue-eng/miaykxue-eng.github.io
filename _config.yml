@@ -1,18 +1,16 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
-
+title: Yangkun Xue
+position: Undergraduate Student in Learning Technologies
+affiliation: University of North Texas
+email: miaykxue@gmail.com
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Yangkun Xue, Mia Xue, University of North Texas, Learning Technologies, Educational Technology, Artificial Intelligence, STEAM Education
+description: Yangkun Xue (Mia) is an undergraduate student in Learning Technologies at the University of North Texas, interested in educational technology, AI, and STEAM education.
+canonical: https://miaykxue.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/
 linkedin: https://www.linkedin.com/
