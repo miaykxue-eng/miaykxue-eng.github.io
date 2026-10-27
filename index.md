@@ -23,7 +23,9 @@ Denton, Texas, USA
 ## Experience
 
 ### Undergraduate Lab Intern
-**University of North Texas | September 2026 – Present**
+
+**University of North Texas**  
+*September 2026 – Present*
 
 - Support 3D printing and educational technology projects under the guidance of Dr. Gerald Knezek.
 - Prepare STL files, use slicing software, operate 3D printers, and assist with troubleshooting.
@@ -31,7 +33,8 @@ Denton, Texas, USA
 
 ### Co-founder, Xi'an Bilingual Corner
 
-**Xi'an, China | October 2025 – May 2026**
+**Xi'an, China**  
+*October 2025 – May 2026*
 
 - Co-founded a bilingual cultural exchange community and organized more than seven cultural exchange events.
 - Facilitated discussions in Chinese and English to promote cross-cultural communication and student engagement.
@@ -41,7 +44,9 @@ Denton, Texas, USA
 *Xi'an Bilingual Corner — Cultural Exchange Activity.*
 
 ### Volunteer English Teacher
-**Village Primary School, Shaanxi, China | March 2024 – April 2024**
+
+**Village Primary School, Shaanxi, China**  
+*March 2024 – April 2024*
 
 - Taught English to 50 primary school students.
 - Designed and delivered lessons to support language learning and student engagement.
