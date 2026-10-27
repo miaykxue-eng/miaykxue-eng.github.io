@@ -59,11 +59,6 @@ Denton, Texas, USA
 
 ### 3D Printing and STEAM Education
 
-
-## Projects
-
-### 3D Printing and STEAM Education
-
 As an Undergraduate Lab Intern at the University of North Texas, I support 3D printing and hands-on STEAM education activities. My work includes preparing STL files, using slicing software, operating 3D printers, and troubleshooting printed models.
 
 ![3D Printing Lab at the University of North Texas](assets/img/IMG_4183.JPG)
