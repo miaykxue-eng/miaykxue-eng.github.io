@@ -30,17 +30,25 @@ Denton, Texas, USA
 - Contribute to hands-on STEAM education activities.
 
 ### Co-founder, Xi'an Bilingual Corner
+
 **Xi'an, China | October 2025 – May 2026**
 
 - Co-founded a bilingual cultural exchange community and organized more than seven cultural exchange events.
 - Facilitated discussions in Chinese and English to promote cross-cultural communication and student engagement.
+
+![Xi'an Bilingual Corner cultural exchange activity](assets/img/6d73494160a37d0bc1770066c0900bec.JPG)
+
+*Xi'an Bilingual Corner — Cultural Exchange Activity.*
 
 ### Volunteer English Teacher
 **Village Primary School, Shaanxi, China | March 2024 – April 2024**
 
 - Taught English to 50 primary school students.
 - Designed and delivered lessons to support language learning and student engagement.
-  
+
+![Volunteer teaching at a village primary school in Shaanxi](assets/img/IMG_7520.jpeg)
+
+*Volunteer English teaching at a village primary school in Shaanxi, China.*
 
 ## Projects
 
