@@ -4,20 +4,32 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Freshman majoring in Learning Technologies at the University of North Texas with experience in teaching, leadership, and cross-cultural communication. Interested in educational technology, AI, and 3D printing, with a focus on how emerging technologies can improve learning experiences. Brings strong communication, teamwork, and creativity through teaching, volunteer, and educational technology experiences, and is eager to continue developing skills in educational technology and research. 
+
+## Education
+
+**University of North Texas (UNT)**  
+Bachelor of Science in Learning Technologies (In Progress)  
+Denton, Texas, USA  
+2026 – Present
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Educational Technology:** Technology-enhanced teaching and learning
+- **Artificial Intelligence in Education:** Applications of AI in educational settings
+- **Instructional Design:** Designing effective and engaging learning experiences
+- **STEAM Education:** 3D printing, hands-on learning, and creative educational technologies
 
-## News
+## Experience
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+### Undergraduate Lab Intern
+**University of North Texas | September 2026 – Present**
 
-{% include_relative _includes/publications.md %}
+- Work on 3D printing and educational technology projects.
+- Assist with 3D modeling, slicing software, and 3D printing.
 
-{% include_relative _includes/services.md %}
+## Projects
+
+### 3D Printing and STEAM Education
+
+Exploring how 3D printing can support hands-on learning and educational technology applications.
